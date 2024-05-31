@@ -1,7 +1,7 @@
-# Finance-project
+## Finance-project
 In this data project we will focus on exploratory data analysis of stock prices.  We'll focus on bank stocks and see how they progressed throughout the financial crisis all the way to early 2016.
-Objectives:
-Data Retrieval: Gather historical stock price data for key banks using the yfinance library.
+#Objectives:
+#Data Retrieval: Gather historical stock price data for key banks using the yfinance library.
 Data Preparation: Organize the data into a format suitable for analysis, ensuring it is clean and well-structured.
 Data Analysis: Conduct various analyses to understand the trends, volatility, and overall performance of these stocks.
 Visualization: Create informative visualizations to illustrate the findings and provide insights into the stock behaviors over time.
