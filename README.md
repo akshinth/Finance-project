@@ -9,7 +9,7 @@ Organize the data into a format suitable for analysis, ensuring it is clean and 
 Conduct various analyses to understand the trends, volatility, and overall performance of these stocks.
 ### Visualization:
 Create informative visualizations to illustrate the findings and provide insights into the stock behaviors over time.
-# Data Sources:
+## Data Sources:
 ### Yahoo Finance:
 Historical stock prices are retrieved using the yfinance library, which provides easy access to financial data.
 ### Banks Analyzed:
