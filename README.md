@@ -20,10 +20,10 @@ JPMorgan Chase (JPM)
 
 ## Steps Involved:
 Setting Up the Environment: 
-### Import necessary libraries and configure the environment for data analysis.
+#### Import necessary libraries and configure the environment for data analysis.
 ### Retrieving Data:
 Use the yfinance library to download stock price data for each bank from January 1, 2006, to January 1, 2016.
-## Data Preparation:
+### Data Preparation:
 Combine data into a multi-level DataFrame.
 Calculate daily returns for each stock.
 ### Exploratory Data Analysis:
